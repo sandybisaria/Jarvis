@@ -1,0 +1,189 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Programming\Unity\CodeTesting\test_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.276 seconds
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Programming\Unity\CodeTesting\test_Data\Managed\System.dll (this message is harmless)
+.vs                           	 directory
+Assets                        	 directory
+Library                       	 directory
+obj                           	 directory
+ProjectSettings               	 directory
+Temp                          	 directory
+test_Data                     	 directory
+File : at location 0Assembly-CSharp-Editor-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\Assembly-CSharp-Editor-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 1Assembly-CSharp-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\Assembly-CSharp-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 2Assembly-CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\Assembly-CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 3CodeTesting.CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 4CodeTesting.CSharp.Editor.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.Editor.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 5CodeTesting.CSharp.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 6CodeTesting.sln
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\CodeTesting.sln
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 7CodeTesting.userprefs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\CodeTesting.userprefs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+File : at location 8test.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XXXXXXXXFile Full detail : D:\Programming\Unity\CodeTesting\test.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Start of Array iteration !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at1 D:\Programming\Unity\CodeTesting\Assembly-CSharp-Editor-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at2 D:\Programming\Unity\CodeTesting\Assembly-CSharp-firstpass.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at3 D:\Programming\Unity\CodeTesting\Assembly-CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at4 D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at5 D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.Editor.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at6 D:\Programming\Unity\CodeTesting\CodeTesting.CSharp.Plugins.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at7 D:\Programming\Unity\CodeTesting\CodeTesting.sln
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at8 D:\Programming\Unity\CodeTesting\CodeTesting.userprefs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at9 D:\Programming\Unity\CodeTesting\test.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at10 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at11 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at12 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at13 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Array info at14 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f0 -> priority: 1 
+  Thread -> id: 2c94 -> priority: 1 
+Col :UnityEngine.Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+GameObj not null :UnityEngine.Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ColMMMMMMMMMMMMMMM:filebox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+COLLOCATTTTIOOOONNN:D:\Programming\Unity\CodeTesting\Assembly-CSharp.csproj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
