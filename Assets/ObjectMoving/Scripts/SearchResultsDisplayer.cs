@@ -15,7 +15,7 @@ class SearchResultsDisplayer : MonoBehaviour {
         foreach (JObject result in webContents) {
             string resultTitle = (string)result["Title"];
             string resultUrl = (string)result["Url"];
-            resultString += "<b>" + resultTitle + "</b> " + resultUrl + "\n";
+            resultString += "<b><color=blue>" + resultTitle + "</color></b> " + resultUrl + "\n";
         }
         SetResultsText(resultString);
     }

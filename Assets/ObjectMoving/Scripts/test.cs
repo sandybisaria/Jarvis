@@ -14,16 +14,16 @@ public class test : MonoBehaviour {
 
 	void Start () {
 		int x = 0;
-		DirectoryInfo dir = new DirectoryInfo(Directory.GetCurrentDirectory());
+		DirectoryInfo dir = new DirectoryInfo(Directory.GetCurrentDirectory() + "\\Files");
 		
 		foreach (DirectoryInfo d in dir.GetDirectories())
 		{
-			Console.WriteLine("{0, -30}\t directory", d.Name);
-//			Debug.Log("directory !: "+ d.Name);
+			//Console.WriteLine("{0, -30}\t directory", d.Name);
+            Debug.Log("directory !: " + d.Name);
 
-		}
-		
-		foreach (FileInfo f in dir.GetFiles())
+        }
+
+        foreach (FileInfo f in dir.GetFiles())
 		{
 
 //			Console.WriteLine("{0, -30}\t File", f.Name);

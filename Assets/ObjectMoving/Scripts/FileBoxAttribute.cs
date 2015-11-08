@@ -26,6 +26,7 @@ public class FileBoxAttribute : MonoBehaviour {
                     //thisBody.WakeUp();
                     isBeingHeld = true;
                     lastPalm = lastCollider;
+                    MessageReceiver.Log("Holding file\n" + location);
                 }
             }
         }

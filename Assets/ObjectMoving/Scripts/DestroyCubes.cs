@@ -17,7 +17,7 @@ public class DestroyCubes : MonoBehaviour {
 			if(testobj != null){
                 Debug.Log("ColMMMMMMMMMMMMMMM:" + testobj.typeThingy);
                 Debug.Log("COLLOCATTTTIOOOONNN:" + testobj.location);
-                MessageReceiver.Log("File deleted:\n" + testobj.location);
+                MessageReceiver.Log("File deleted\n" + testobj.location);
                 Destroy(col.gameObject);
 			}
 		}

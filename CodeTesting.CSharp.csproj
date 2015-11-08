@@ -13,13 +13,11 @@
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
-    <CompilerResponseFile>
-    </CompilerResponseFile>
+    <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>5.2.2f1</UnityVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -97,11 +95,13 @@
     <Compile Include="Assets\ObjectMoving\Scripts\DestroyCubes.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\FileBoxAttribute.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\HandPalmAttribute.cs" />
+    <Compile Include="Assets\ObjectMoving\Scripts\InputFieldBehaviour.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\MessageReceiver.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\SearchResultsDisplayer.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\SearchScript.cs" />
+    <Compile Include="Assets\ObjectMoving\Scripts\UploadCubesAzure.cs" />
+    <Compile Include="Assets\ObjectMoving\Scripts\UploadCubesOneDrive.cs" />
     <Compile Include="Assets\ObjectMoving\Scripts\test.cs" />
-    <Compile Include="Assets\ObjectMoving\Scripts\UploadCubes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GreenScreen\Materials\GreenScreenShader.shader" />

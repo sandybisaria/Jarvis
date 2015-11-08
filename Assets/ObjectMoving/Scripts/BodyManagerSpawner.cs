@@ -72,10 +72,10 @@ public class BodyManagerSpawner : MonoBehaviour {
 		GameObject body = new GameObject("Body:" + id);
 		
 		foreach (Kinect.JointType jt in Joints) {
-			GameObject jointObj = GameObject.CreatePrimitive(PrimitiveType.Cube);
-
+            GameObject jointObj;
             if (jt == Kinect.JointType.HandLeft || jt == Kinect.JointType.HandRight)
             {
+                jointObj = GameObject.CreatePrimitive(PrimitiveType.Cube);
                 Rigidbody rigidBody = jointObj.AddComponent<Rigidbody>();
                 rigidBody.mass = 10;
                 rigidBody.drag = 100;
@@ -86,10 +86,12 @@ public class BodyManagerSpawner : MonoBehaviour {
             }
             else if (jt == Kinect.JointType.HandTipLeft || jt == Kinect.JointType.HandTipRight)
             {
+                jointObj = GameObject.CreatePrimitive(PrimitiveType.Cylinder);
                 createHandTip(jointObj.transform);
             }
             else
             {
+                jointObj = GameObject.CreatePrimitive(PrimitiveType.Sphere);
                 // Determines the size of the joints
                 float objScale = 20f;
                 jointObj.transform.localScale = new Vector3(objScale, objScale, objScale);
