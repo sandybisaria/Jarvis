@@ -37,7 +37,7 @@ public class FileBoxAttribute : MonoBehaviour {
         if (lastPalm != null)
         {
             HandPalmAttribute hpa = lastPalm.GetComponent<HandPalmAttribute>();
-            if (hpa.GetHandState() == "open" && isBeingHeld)
+            if (hpa.GetHandState() != "closed" && isBeingHeld)
             {
                 Rigidbody thisBody = GetComponent<Rigidbody>();
                 isBeingHeld = false;
